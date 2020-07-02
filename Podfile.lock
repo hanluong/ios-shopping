@@ -1,0 +1,24 @@
+PODS:
+  - KRActivityIndicatorView (3.0.5)
+  - KRProgressHUD (3.4.5):
+    - KRActivityIndicatorView (= 3.0.5)
+  - ScrollableSegmentedControl (1.5.0)
+
+DEPENDENCIES:
+  - KRProgressHUD
+  - ScrollableSegmentedControl (~> 1.5.0)
+
+SPEC REPOS:
+  trunk:
+    - KRActivityIndicatorView
+    - KRProgressHUD
+    - ScrollableSegmentedControl
+
+SPEC CHECKSUMS:
+  KRActivityIndicatorView: 912bc0413d98340f384b12a4e1e6aa8f42fb377d
+  KRProgressHUD: df4cdc3a1baf708d4276a089ee34d133fa9a6f3e
+  ScrollableSegmentedControl: 2e64bbe8968a7fcd8aae5014434481464fcdfe60
+
+PODFILE CHECKSUM: e9492c47f9a39d4fdea57baaef7b5176af5a5983
+
+COCOAPODS: 1.8.4
